@@ -21,15 +21,15 @@
 
 ##Numbers 
 1. Num1 
-2. num2
-3. num 3
-4. num4
+1. num2
+1. num 3
+1. num4
 
 ![This is a alt text.](/image/num.png "This is a sample image.")
 #Numbers list
-1.Num1
-1.num2
-1.num3
+ 1.Num1
+ 1.num2
+ 1.num3
 
 # Roman int
  1. Roman
