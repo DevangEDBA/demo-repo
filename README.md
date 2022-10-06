@@ -7,9 +7,10 @@
 #Bold
 **I am new to Git**
 #List bullet
-*Item 1
-*item 2
-*item 3
+* Item 1
+* Item 2
+* Item 2a
+* Item 2b
 
 #Numbers list
 1.Num1
