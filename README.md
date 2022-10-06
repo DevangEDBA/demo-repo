@@ -25,8 +25,7 @@
 3. num 3
 4. num4
 
-(/image/num.png "This is a sample image.")
-
+![This is a alt text.](/image/num.png "This is a sample image.")
 #Numbers list
 1.Num1
 1.num2
@@ -34,3 +33,16 @@
 
 #Roman int
 1.Roman
+
+# heading1
+## heading2
+### heading3
+#### heading4
+##### heading5
+###### heding6
+
+*Italic 
+**bold
+
+## Link
+You may be using [Markdown Live Preview](https://github.com/DevangEDBA/demo-repo/edit/main/README.md/).
