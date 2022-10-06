@@ -12,6 +12,11 @@
 * Item 2a
 * Item 2b
 
+####List Bullets
+* New1
+* New2
+* New3
+
 #Numbers list
 1.Num1
 1.num2
