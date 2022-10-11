@@ -4,7 +4,9 @@
 ##I am new to GITHUB
 #Italic
 *thank you*
-#Bold
+# Hello 
+# Bold
+* italic
 **I am new to Git**
 #List bullet
 * Item 1
